@@ -1,11 +1,7 @@
 ### Hi there I'm Aron 👋
 
 
- I'm 30 years old and I'm starting a developer career.
-
-Currently studying Systems Analysis and Development
-
-I'm learning HTML, CSS JavaScript and React
+ Web developer with experience in React, Vite, Vitest, Jest, Styled-Components, and JavaScript/TypeScript. Passionate about crafting interactive and optimized interfaces. Always seeking new challenges to enhance my skills and contribute to innovative projects.
 
 <div >
   <a href="https://github.com/AronNascimento1">
