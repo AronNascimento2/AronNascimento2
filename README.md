@@ -1,7 +1,11 @@
 ### Hi there I'm Aron 👋
 
 
- Web developer with experience in React, Vite, Vitest, Jest, Styled-Components, and JavaScript/TypeScript. Passionate about crafting interactive and optimized interfaces. Always seeking new challenges to enhance my skills and contribute to innovative projects.
+ Web developer with experience in React, Vite, Vitest, Jest, Styled-Components, and JavaScript/TypeScript. 
+ 
+ Passionate about crafting interactive and optimized interfaces. 
+ 
+ Always seeking new challenges to enhance my skills and contribute to innovative projects.
 
 <div >
   <a href="https://github.com/AronNascimento1">
