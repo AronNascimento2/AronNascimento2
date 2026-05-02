@@ -61,25 +61,11 @@ I have experience developing modern interfaces and backend systems using technol
 
 ## 📊 GitHub Stats
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AronNascimento2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronNascimento2&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AronNascimento2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AronNascimento2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
----
-
-## 🔥 Featured Project
-
-### 🚛 Roteirizador (Logistics Route Planner)
-A logistics routing system that allows route creation, optimization and real-time simulation of deliveries and pickups.
-
-- Route optimization based on shortest path
-- Interactive maps with Leaflet
-- Real-time status simulation per stop
-- Full client-side architecture
-
-🔗 https://roteirizador-front.vercel.app/
-
 ---
 
 ## 📫 Contact
