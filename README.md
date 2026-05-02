@@ -66,7 +66,6 @@ I have experience developing modern interfaces and backend systems using technol
   
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AronNascimento2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
----
 
 ## 📫 Contact
 
